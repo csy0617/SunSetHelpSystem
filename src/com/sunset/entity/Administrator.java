@@ -9,6 +9,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Data
 public class Administrator {
+	//管理员
 	private Integer Id;
 	private String AdminName;
 	private String Password;
